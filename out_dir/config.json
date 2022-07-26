@@ -1,0 +1,52 @@
+{
+  "version": "1.2",
+  "withoutSpace": false,
+  "directSet": false,
+  "description": "Набор карточек \"Напитки\". Автор — Паша Любецкий <pasha.liubetski@yandex.com>\nЛицензия — Creative Commons License BY-NC-SA.\n\nИзображения — https://arasaac.org/pictograms/search, лицензия — Creative Commons License BY-NC-SA.\n",
+  "columns": 3,
+  "rows": 2,
+  "cards": [
+    {
+      "id": 0,
+      "title": "НАПИТКИ",
+      "imagePath": "напитки.png",
+      "audioPath": "напитки.wav",
+      "cardType": 0
+    },
+    {
+      "id": 1,
+      "title": "ВОДА",
+      "imagePath": "вода.png",
+      "audioPath": "вода.wav",
+      "cardType": 0
+    },
+    {
+      "id": 2,
+      "title": "КОФЕ",
+      "imagePath": "кофе.png",
+      "audioPath": "кофе.wav",
+      "cardType": 0
+    },
+    {
+      "id": 3,
+      "title": "СОК",
+      "imagePath": "сок.png",
+      "audioPath": "сок.wav",
+      "cardType": 0
+    },
+    {
+      "id": 4,
+      "title": "ЧАЙ",
+      "imagePath": "чай.png",
+      "audioPath": "чай.wav",
+      "cardType": 0
+    },
+    {
+      "id": 5,
+      "title": "ШОКОЛАД",
+      "imagePath": "шоколад.png",
+      "audioPath": "шоколад.wav",
+      "cardType": 0
+    }
+  ]
+}

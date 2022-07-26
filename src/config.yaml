@@ -1,0 +1,23 @@
+version: "1.2"
+withoutSpace: false
+directSet: false
+description: |
+  Набор карточек "Напитки". Автор — Паша Любецкий <pasha.liubetski@yandex.com>
+  Лицензия — Creative Commons License BY-NC-SA.
+  
+  Изображения — https://arasaac.org/pictograms/search, лицензия — Creative Commons License BY-NC-SA.
+columns: 3
+rows: 2
+cards:
+  - title: НАПИТКИ
+    png: напитки.png
+  - title: ВОДА
+    png: вода.png
+  - title: КОФЕ
+    png: кофе.png
+  - title: СОК
+    png: сок.png
+  - title: ЧАЙ
+    png: чай.png
+  - title: ШОКОЛАД
+    png: шоколад.png
