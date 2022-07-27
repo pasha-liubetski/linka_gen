@@ -63,7 +63,7 @@ cards.each do |card|
   str = card[:title]
   out_wav = card[:audioPath]
 
-  rhvoice_cmdline="echo #{str} | RHVoice-test -R 44100 -p #{rhvoice_voice} -o #{output_dir}/#{out_wav}"
+  rhvoice_cmdline="echo #{str} | RHVoice-test -R 44100 -p #{rhvoice_voice} -o '#{output_dir}/#{out_wav}'"
 
   puts rhvoice_cmdline
   system rhvoice_cmdline
