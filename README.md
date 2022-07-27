@@ -1,6 +1,9 @@
 # Генератор карточек для LINKa
 
-![Набор карточек example.linka](example.png)
+![Пример набора карточек, страница 1.linka](linka_gen_1.png)
+![Пример набора карточек, страница 2.linka](linka_gen_2.png)
+![Пример набора карточек, страница 3.linka](linka_gen_3.png)
+![Пример набора карточек, страница 4.linka](linka_gen_4.png)
 
 Здесь расположены __ruby-скрипты__, которые генерирует _.linka_-карточки для программы __"LINKa. смотри"__ <https://linka.su/looks/>. Исходники оригинальной программы —  <https://github.com/linkasu/LINKa.look-windows>.
 

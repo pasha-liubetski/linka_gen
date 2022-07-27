@@ -2,15 +2,118 @@ version: "1.2"
 withoutSpace: false
 directSet: false
 description: |
-  Набор карточек "Напитки". Автор — Паша Любецкий <pasha.liubetski@yandex.com>
+  Набор карточек "Разговор / Чувства / Еда / Напитки". Автор — Паша Любецкий <pasha.liubetski@yandex.com>.
+  
   Лицензия — Creative Commons License BY-NC-SA.
   
-  Изображения — https://arasaac.org/pictograms/search, лицензия — Creative Commons License BY-NC-SA.
-columns: 3
-rows: 2
+  Изображения — ARASAAC (Aragonese Center of Augmentative and Alternative Communication, https://arasaac.org/pictograms/search), лицензия — Creative Commons License BY-NC-SA.
+columns: 4
+rows: 4
 cards:
+  - title: РАЗГОВОР
+    png: _разговор.png
+  - title: СТОП
+    png: стоп.png
+  - title: ДА
+    png: да.png
+  - title: НЕТ
+    png: нет.png
+  - title: НЕ ЗНАЮ
+    png: не_знаю.png
+  - title: ХОРОШО
+    png: хорошо.png
+  - title: ПЛОХО
+    png: плохо.png
+  - title: ПРИВЕТ
+    png: привет.png
+  - title: ПОКА
+    png: пока.png
+  - title: СПАСИБО
+    png: спасибо.png
+  - title: ПРОСТИ
+    png: прости.png
+  - title: ЧУВСТВА
+    png: _чувства.png
+  - title: РАДОСТЬ
+    png: радость.png
+  - title: ГРУСТЬ
+    png: грусть.png
+  - title: ВЕСЕЛЬЕ
+    png: веселье.png
+  - title: ЗЛОСТЬ
+    png: злость.png
+  - title: СПОКОЙСТВИЕ
+    png: спокойствие.png
+  - title: СТРАХ
+    png: страх.png
+  - title: ТРЕВОГА
+    png: тревога.png
+  - title: СКУКА
+    png: скука.png
+  - title: СМУЩЕНИЕ
+    png: смущение.png
+  - title: УСТАЛОСТЬ
+    png: усталость.png
+  - title: ЕДА
+    png: _еда.png
+  - title: ОВОЩИ
+    png: овощи.png
+  - title: ФРУКТЫ
+    png: фрукты.png
+  - title: ЯГОДЫ
+    png: ягоды.png
+  - title: ДЕТСКОЕ ПИТАНИЕ
+    png: детское_питание.png
+  - title: ГРИБЫ
+    png: грибы.png
+  - title: АНАНАС
+    png: ананас.png
+  - title: АПЕЛЬСИН
+    png: апельсин.png
+  - title: БАНАНЫ
+    png: бананы.png
+  - title: ВИНОГРАД
+    png: виноград.png
+  - title: ВИШНЯ
+    png: вишня.png
+  - title: ГРЕЙПФРУТ
+    png: грейпфрут.png
+  - title: ГРУША
+    png: груша.png
+  - title: КАПУСТА
+    png: капуста.png
+  - title: КАРТОШКА
+    png: картошка.png
+  - title: КИВИ
+    png: киви.png
+  - title: КЛУБНИКА
+    png: клубника.png
+  - title: ЛИМОН
+    png: лимон.png
+  - title: МОРКОВЬ
+    png: морковь.png
+  - title: ОГУРЕЦ
+    png: огурец.png
+  - title: ОРЕХИ
+    png: орехи.png
+  - title: ПЕЧЕНЬЕ
+    png: печенье.png
+  - title: ПОМИДОР
+    png: помидор.png
+  - title: ПОПКОРН
+    png: попкорн.png
+  - title: СЫР
+    png: сыр.png
+  - title: ХЛЕБ
+    png: хлеб.png
+  - title: ХЛОПЬЯ
+    png: хлопья.png
+  - title: ШОКОЛАД
+    png: шоколад.png
+  - title: ЯБЛОКО
+    png: яблоко.png
   - title: НАПИТКИ
-    png: напитки.png
+    png: _напитки.png
   - title: ВОДА
     png: вода.png
   - title: КОФЕ
@@ -19,5 +122,3 @@ cards:
     png: сок.png
   - title: ЧАЙ
     png: чай.png
-  - title: ШОКОЛАД
-    png: шоколад.png

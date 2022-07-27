@@ -4,7 +4,7 @@ require 'json'
 require 'fileutils'
 require 'yaml'
 
-output_zip = 'example.linka'
+output_zip = 'linka_gen.linka'
 output_dir = 'out_dir'
 src_dir = 'src'
 

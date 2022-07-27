@@ -2,50 +2,400 @@
   "version": "1.2",
   "withoutSpace": false,
   "directSet": false,
-  "description": "Набор карточек \"Напитки\". Автор — Паша Любецкий <pasha.liubetski@yandex.com>\nЛицензия — Creative Commons License BY-NC-SA.\n\nИзображения — https://arasaac.org/pictograms/search, лицензия — Creative Commons License BY-NC-SA.\n",
-  "columns": 3,
-  "rows": 2,
+  "description": "Набор карточек \"Разговор / Чувства / Еда / Напитки\". Автор — Паша Любецкий <pasha.liubetski@yandex.com>.\n\nЛицензия — Creative Commons License BY-NC-SA.\n\nИзображения — ARASAAC (Aragonese Center of Augmentative and Alternative Communication, https://arasaac.org/pictograms/search), лицензия — Creative Commons License BY-NC-SA.\n",
+  "columns": 4,
+  "rows": 4,
   "cards": [
     {
       "id": 0,
-      "title": "НАПИТКИ",
-      "imagePath": "напитки.png",
-      "audioPath": "напитки.wav",
+      "title": "РАЗГОВОР",
+      "imagePath": "_разговор.png",
+      "audioPath": "_разговор.wav",
       "cardType": 0
     },
     {
       "id": 1,
+      "title": "СТОП",
+      "imagePath": "стоп.png",
+      "audioPath": "стоп.wav",
+      "cardType": 0
+    },
+    {
+      "id": 2,
+      "title": "ДА",
+      "imagePath": "да.png",
+      "audioPath": "да.wav",
+      "cardType": 0
+    },
+    {
+      "id": 3,
+      "title": "НЕТ",
+      "imagePath": "нет.png",
+      "audioPath": "нет.wav",
+      "cardType": 0
+    },
+    {
+      "id": 4,
+      "title": "НЕ ЗНАЮ",
+      "imagePath": "не_знаю.png",
+      "audioPath": "не_знаю.wav",
+      "cardType": 0
+    },
+    {
+      "id": 5,
+      "title": "ХОРОШО",
+      "imagePath": "хорошо.png",
+      "audioPath": "хорошо.wav",
+      "cardType": 0
+    },
+    {
+      "id": 6,
+      "title": "ПЛОХО",
+      "imagePath": "плохо.png",
+      "audioPath": "плохо.wav",
+      "cardType": 0
+    },
+    {
+      "id": 7,
+      "title": "ПРИВЕТ",
+      "imagePath": "привет.png",
+      "audioPath": "привет.wav",
+      "cardType": 0
+    },
+    {
+      "id": 8,
+      "title": "ПОКА",
+      "imagePath": "пока.png",
+      "audioPath": "пока.wav",
+      "cardType": 0
+    },
+    {
+      "id": 9,
+      "title": "СПАСИБО",
+      "imagePath": "спасибо.png",
+      "audioPath": "спасибо.wav",
+      "cardType": 0
+    },
+    {
+      "id": 10,
+      "title": "ПРОСТИ",
+      "imagePath": "прости.png",
+      "audioPath": "прости.wav",
+      "cardType": 0
+    },
+    {
+      "id": 11,
+      "title": "ЧУВСТВА",
+      "imagePath": "_чувства.png",
+      "audioPath": "_чувства.wav",
+      "cardType": 0
+    },
+    {
+      "id": 12,
+      "title": "РАДОСТЬ",
+      "imagePath": "радость.png",
+      "audioPath": "радость.wav",
+      "cardType": 0
+    },
+    {
+      "id": 13,
+      "title": "ГРУСТЬ",
+      "imagePath": "грусть.png",
+      "audioPath": "грусть.wav",
+      "cardType": 0
+    },
+    {
+      "id": 14,
+      "title": "ВЕСЕЛЬЕ",
+      "imagePath": "веселье.png",
+      "audioPath": "веселье.wav",
+      "cardType": 0
+    },
+    {
+      "id": 15,
+      "title": "ЗЛОСТЬ",
+      "imagePath": "злость.png",
+      "audioPath": "злость.wav",
+      "cardType": 0
+    },
+    {
+      "id": 16,
+      "title": "СПОКОЙСТВИЕ",
+      "imagePath": "спокойствие.png",
+      "audioPath": "спокойствие.wav",
+      "cardType": 0
+    },
+    {
+      "id": 17,
+      "title": "СТРАХ",
+      "imagePath": "страх.png",
+      "audioPath": "страх.wav",
+      "cardType": 0
+    },
+    {
+      "id": 18,
+      "title": "ТРЕВОГА",
+      "imagePath": "тревога.png",
+      "audioPath": "тревога.wav",
+      "cardType": 0
+    },
+    {
+      "id": 19,
+      "title": "СКУКА",
+      "imagePath": "скука.png",
+      "audioPath": "скука.wav",
+      "cardType": 0
+    },
+    {
+      "id": 20,
+      "title": "СМУЩЕНИЕ",
+      "imagePath": "смущение.png",
+      "audioPath": "смущение.wav",
+      "cardType": 0
+    },
+    {
+      "id": 21,
+      "title": "УСТАЛОСТЬ",
+      "imagePath": "усталость.png",
+      "audioPath": "усталость.wav",
+      "cardType": 0
+    },
+    {
+      "id": 22,
+      "title": "ЕДА",
+      "imagePath": "_еда.png",
+      "audioPath": "_еда.wav",
+      "cardType": 0
+    },
+    {
+      "id": 23,
+      "title": "ОВОЩИ",
+      "imagePath": "овощи.png",
+      "audioPath": "овощи.wav",
+      "cardType": 0
+    },
+    {
+      "id": 24,
+      "title": "ФРУКТЫ",
+      "imagePath": "фрукты.png",
+      "audioPath": "фрукты.wav",
+      "cardType": 0
+    },
+    {
+      "id": 25,
+      "title": "ЯГОДЫ",
+      "imagePath": "ягоды.png",
+      "audioPath": "ягоды.wav",
+      "cardType": 0
+    },
+    {
+      "id": 26,
+      "title": "ДЕТСКОЕ ПИТАНИЕ",
+      "imagePath": "детское_питание.png",
+      "audioPath": "детское_питание.wav",
+      "cardType": 0
+    },
+    {
+      "id": 27,
+      "title": "ГРИБЫ",
+      "imagePath": "грибы.png",
+      "audioPath": "грибы.wav",
+      "cardType": 0
+    },
+    {
+      "id": 28,
+      "title": "АНАНАС",
+      "imagePath": "ананас.png",
+      "audioPath": "ананас.wav",
+      "cardType": 0
+    },
+    {
+      "id": 29,
+      "title": "АПЕЛЬСИН",
+      "imagePath": "апельсин.png",
+      "audioPath": "апельсин.wav",
+      "cardType": 0
+    },
+    {
+      "id": 30,
+      "title": "БАНАНЫ",
+      "imagePath": "бананы.png",
+      "audioPath": "бананы.wav",
+      "cardType": 0
+    },
+    {
+      "id": 31,
+      "title": "ВИНОГРАД",
+      "imagePath": "виноград.png",
+      "audioPath": "виноград.wav",
+      "cardType": 0
+    },
+    {
+      "id": 32,
+      "title": "ВИШНЯ",
+      "imagePath": "вишня.png",
+      "audioPath": "вишня.wav",
+      "cardType": 0
+    },
+    {
+      "id": 33,
+      "title": "ГРЕЙПФРУТ",
+      "imagePath": "грейпфрут.png",
+      "audioPath": "грейпфрут.wav",
+      "cardType": 0
+    },
+    {
+      "id": 34,
+      "title": "ГРУША",
+      "imagePath": "груша.png",
+      "audioPath": "груша.wav",
+      "cardType": 0
+    },
+    {
+      "id": 35,
+      "title": "КАПУСТА",
+      "imagePath": "капуста.png",
+      "audioPath": "капуста.wav",
+      "cardType": 0
+    },
+    {
+      "id": 36,
+      "title": "КАРТОШКА",
+      "imagePath": "картошка.png",
+      "audioPath": "картошка.wav",
+      "cardType": 0
+    },
+    {
+      "id": 37,
+      "title": "КИВИ",
+      "imagePath": "киви.png",
+      "audioPath": "киви.wav",
+      "cardType": 0
+    },
+    {
+      "id": 38,
+      "title": "КЛУБНИКА",
+      "imagePath": "клубника.png",
+      "audioPath": "клубника.wav",
+      "cardType": 0
+    },
+    {
+      "id": 39,
+      "title": "ЛИМОН",
+      "imagePath": "лимон.png",
+      "audioPath": "лимон.wav",
+      "cardType": 0
+    },
+    {
+      "id": 40,
+      "title": "МОРКОВЬ",
+      "imagePath": "морковь.png",
+      "audioPath": "морковь.wav",
+      "cardType": 0
+    },
+    {
+      "id": 41,
+      "title": "ОГУРЕЦ",
+      "imagePath": "огурец.png",
+      "audioPath": "огурец.wav",
+      "cardType": 0
+    },
+    {
+      "id": 42,
+      "title": "ОРЕХИ",
+      "imagePath": "орехи.png",
+      "audioPath": "орехи.wav",
+      "cardType": 0
+    },
+    {
+      "id": 43,
+      "title": "ПЕЧЕНЬЕ",
+      "imagePath": "печенье.png",
+      "audioPath": "печенье.wav",
+      "cardType": 0
+    },
+    {
+      "id": 44,
+      "title": "ПОМИДОР",
+      "imagePath": "помидор.png",
+      "audioPath": "помидор.wav",
+      "cardType": 0
+    },
+    {
+      "id": 45,
+      "title": "ПОПКОРН",
+      "imagePath": "попкорн.png",
+      "audioPath": "попкорн.wav",
+      "cardType": 0
+    },
+    {
+      "id": 46,
+      "title": "СЫР",
+      "imagePath": "сыр.png",
+      "audioPath": "сыр.wav",
+      "cardType": 0
+    },
+    {
+      "id": 47,
+      "title": "ХЛЕБ",
+      "imagePath": "хлеб.png",
+      "audioPath": "хлеб.wav",
+      "cardType": 0
+    },
+    {
+      "id": 48,
+      "title": "ХЛОПЬЯ",
+      "imagePath": "хлопья.png",
+      "audioPath": "хлопья.wav",
+      "cardType": 0
+    },
+    {
+      "id": 49,
+      "title": "ШОКОЛАД",
+      "imagePath": "шоколад.png",
+      "audioPath": "шоколад.wav",
+      "cardType": 0
+    },
+    {
+      "id": 50,
+      "title": "ЯБЛОКО",
+      "imagePath": "яблоко.png",
+      "audioPath": "яблоко.wav",
+      "cardType": 0
+    },
+    {
+      "id": 51,
+      "title": "НАПИТКИ",
+      "imagePath": "_напитки.png",
+      "audioPath": "_напитки.wav",
+      "cardType": 0
+    },
+    {
+      "id": 52,
       "title": "ВОДА",
       "imagePath": "вода.png",
       "audioPath": "вода.wav",
       "cardType": 0
     },
     {
-      "id": 2,
+      "id": 53,
       "title": "КОФЕ",
       "imagePath": "кофе.png",
       "audioPath": "кофе.wav",
       "cardType": 0
     },
     {
-      "id": 3,
+      "id": 54,
       "title": "СОК",
       "imagePath": "сок.png",
       "audioPath": "сок.wav",
       "cardType": 0
     },
     {
-      "id": 4,
+      "id": 55,
       "title": "ЧАЙ",
       "imagePath": "чай.png",
       "audioPath": "чай.wav",
-      "cardType": 0
-    },
-    {
-      "id": 5,
-      "title": "ШОКОЛАД",
-      "imagePath": "шоколад.png",
-      "audioPath": "шоколад.wav",
       "cardType": 0
     }
   ]
