@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "withoutSpace": false,
-  "directSet": false,
+  "directSet": true,
   "description": "Набор карточек \"Разговор / Чувства / Еда / Напитки\". Автор — Паша Любецкий <pasha.liubetski@yandex.com>.\n\nЛицензия — Creative Commons License BY-NC-SA.\n\nИзображения — ARASAAC (Aragonese Center of Augmentative and Alternative Communication, https://arasaac.org/pictograms/search), лицензия — Creative Commons License BY-NC-SA.\n",
   "columns": 4,
   "rows": 4,

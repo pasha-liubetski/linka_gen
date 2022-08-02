@@ -1,6 +1,6 @@
 version: "1.2"
 withoutSpace: false
-directSet: false
+directSet: true
 description: |
   Набор карточек "Напитки". Автор — Паша Любецкий <pasha.liubetski@yandex.com>
   Лицензия — Creative Commons License BY-NC-SA.

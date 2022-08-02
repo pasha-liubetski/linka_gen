@@ -1,17 +1,19 @@
 # Генератор карточек для LINKa
 
-![Пример набора карточек, страница 1.linka](linka_gen_1.png)
-![Пример набора карточек, страница 2.linka](linka_gen_2.png)
-![Пример набора карточек, страница 3.linka](linka_gen_3.png)
-![Пример набора карточек, страница 4.linka](linka_gen_4.png)
-
-Здесь расположены __ruby-скрипты__, которые генерирует _.linka_-карточки для программы __"LINKa. смотри"__ <https://linka.su/looks/>. Исходники оригинальной программы —  <https://github.com/linkasu/LINKa.look-windows>.
+Здесь расположены __ruby-скрипты__, которые генерирует _.linka_-карточки для программы __"LINKa. смотри"__ <https://linka.su/looks/>. Исходники оригинальной программы —  <https://github.com/linkasu/LINKa.look-windows>. Мой форк (в котором нету функции редактора, который слишком плохо работал в оригинальной программе) — <https://github.com/pasha-liubetski/LINKa.look-windows>.
 
 На данный момент скрипты проверены только в OS Linux. Для работы нужен интерпретатор ruby и установленный __TTS__-синтезатор rhvoice.
 
 Встроенный в программу интерактивный редактор карточек содержит много багов, так что для того, чтобы создавать наборы карточек, мне показалось проще написать эти скрипты.
 
-__Идея такая:__ наборы карточек для LINKa — это обычные zip-файлы следующей структуры:
+![Пример набора карточек, страница 1.linka](linka_gen_1.png)
+![Пример набора карточек, страница 2.linka](linka_gen_2.png)
+![Пример набора карточек, страница 3.linka](linka_gen_3.png)
+![Пример набора карточек, страница 4.linka](linka_gen_4.png)
+
+## Идея
+
+Наборы карточек для LINKa — это обычные zip-файлы следующей структуры:
 
 ```
 ~/linka_gen # unzip -l example.linka 
@@ -141,6 +143,6 @@ cards:
 
 ## Лицензия
 
-Автор скриптов — Паша Любецкий <mailto:pasha.liubetski@yandex.com>, лицензия — _Creative Commons Attribution 4.0 International (CC-BY 4.0)_.
+Автор скриптов — Паша Любецкий ([pasha.liubetski@yandex.com](mailto:pasha.liubetski@yandex.com)), лицензия — _Creative Commons Attribution 4.0 International (CC-BY 4.0)_.
 
-Изображения — <https://arasaac.org/pictograms/search>, лицензия — _Creative Commons License BY-NC-SA_.
+Изображения — __ARASAAC__ (<https://arasaac.org/pictograms/search>), лицензия — _Creative Commons License BY-NC-SA_.

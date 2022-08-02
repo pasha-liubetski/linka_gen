@@ -1,6 +1,6 @@
 version: "1.2"
 withoutSpace: false
-directSet: false
+directSet: true
 description: |
   Набор карточек "Разговор / Чувства / Еда / Напитки". Автор — Паша Любецкий <pasha.liubetski@yandex.com>.
   
